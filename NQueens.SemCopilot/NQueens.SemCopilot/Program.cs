@@ -1,3 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using NQueens.SemCopilot;
 
-Console.WriteLine("Hello, World!");
+NQueensProblem nQueensProblem = new NQueensProblem(16);
